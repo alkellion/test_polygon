@@ -12,6 +12,6 @@
 ## 🔧 Установка
 
 ```bash
-git clone https://github.com/yourusername/polygon-token-checker.git
-cd polygon-token-checker
+git clone https://github.com/alkellion/test_polygon.git
+cd test_polygon
 pip install -r requirements.txt
